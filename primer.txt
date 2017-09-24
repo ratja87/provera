@@ -1,2 +1,3 @@
 primer teksta koji saljem u fajl
 druga linija teksta
+didavanje novog teksta
